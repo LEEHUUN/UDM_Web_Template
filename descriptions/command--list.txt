@@ -1,0 +1,17 @@
+React Typescript 프로젝트 생성
+ - cmd : npm i create-react-app folderName --typescript
+
+프로젝트에 필요한 Package 설치
+ - cmd : npm install
+
+프로젝트에 필요한 Package 업데이트
+ - cmd : npm update
+
+웹 서버 실행
+ - cmd : npm run start
+
+현재 실행중인 웹 서버 닫기
+ - cmd : Ctrl + C
+
+웹 서버 배포
+ - cmd run built
